@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Introduction to Github
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my first Github page. 
